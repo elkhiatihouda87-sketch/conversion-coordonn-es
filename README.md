@@ -184,7 +184,7 @@ Si `X = Y = 0`, le point est exactement sur l'axe des pôles et la longitude n'a
 - **Point intéressant du schéma.** La normale ne passe pas par le centre de la Terre : elle coupe l'axe des pôles à `z = −N·e²·sin φ`, et c'est de ce point que φ est mesurée. La latitude géocentrique ψ (angle du rayon du centre à P) est un peu différente de φ.
 - **Globe 3D.** Les continents sont des contours simplifiés, transformés en points régulièrement espacés. Chaque point est tourné, incliné, puis projeté à l'écran. La profondeur dit s'il est devant ou derrière.
 - **Animation.** Une boucle (environ 30 images par seconde) met à jour la rotation et redessine tout.
-- **Couleurs.** Cinq thèmes (`sombre`, `clair`, `foret`, `violet`, `chaud`) donnent une couleur à chaque élément. L'océan est en dégradé, les continents sont colorés par type de terrain (glace, désert, forêt...).
+
 
 ## Organisation du code
 
