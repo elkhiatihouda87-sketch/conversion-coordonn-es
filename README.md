@@ -26,7 +26,7 @@ Chaque conversion ajoute un point sur le globe, qu'on peut faire tourner à la s
 
 ### Exemple chiffré
 
-Point de départ : un point de Marrakech, ellipsoïde **Clarke 1880 (Merchich)**.
+Point de départ : un point de Marrakech.
 
 | Champ | Valeur saisie |
 |---|---|
