@@ -1,7 +1,7 @@
 # Houda EL KHIATI
 # Conversion de coordonnées géodésiques ⇄ cartésiennes
 
-Petit programme Python (tkinter) qui convertit une position entre deux écritures, dans les deux sens, et la dessine sur un schéma 3D et sur un globe.
+Programme Python (tkinter) qui convertit une position entre deux écritures, dans les deux sens, et la dessine sur un schéma 3D et sur un globe.
 
 | Écriture | Ce que c'est |
 |---|---|
